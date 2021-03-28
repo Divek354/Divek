@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>President Divek</title>
+<style>
+body{
+background-color:red
+color:black;
+font-size:30px;
+}
+</style>
+</head>
+<body>
+<marquee><h1>The Best President</h1></marquee>
+<p>I will donate a lot of money to evryone</p>
+<p>I will make peace treaties with other countries</p>
+<p>I will make sure there is no fighting in my country</p>
+<p>I will protect my country and do what is right</p>
+<p>I will make sure no one is homeless</p>
+<p>I will respect evrybondy</p>
+<p>Thank You so much</p>
+</body>
+</html>
